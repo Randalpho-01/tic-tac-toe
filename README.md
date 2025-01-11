@@ -1,2 +1,2 @@
 # tic-tac-toe
-Tic Tac Toe game, you vr Computer AI 
+Tic Tac Toe game. 
